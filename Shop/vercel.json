@@ -5,7 +5,7 @@
 			"dest": "/"
 		},
 		{
-			"src": "/Shop",
+			"src": "/index.html",
 			"dest": "/"
 		}
 	]
